@@ -1,0 +1,40 @@
+
+ISBN: 0-13-917709-4
+Author: Cleaver
+Published: 2007
+Price: $74.50
+In stock: 3
+
+Price of book 1: 74.50
+
+Changing price of book 1 to $16.24.
+
+ISBN: 0-13-917709-4
+Author: Cleaver
+Published: 2007
+Price: $16.24
+In stock: 3
+
+Adding 5 books to the existing inventory of book 1.
+
+ISBN: 0-13-917709-4
+Author: Cleaver
+Published: 2007
+Price: $16.24
+In stock: 8
+
+Removing 3 books from the existing inventory of book 1.
+
+ISBN: 0-13-917709-4
+Author: Cleaver
+Published: 2007
+Price: $16.24
+In stock: 5
+
+Displaying total value of book 1 inventory.
+Total value for stock of 5 book(s): $81.20.
+
+Displaying total value of all books in inventory.
+
+Total value of all inventory: $449.20
+Press any key to continue . . .
